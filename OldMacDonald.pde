@@ -110,5 +110,3 @@ class Pig extends Cow
 		mySound = sound;     
 	}     
 }
-
-
